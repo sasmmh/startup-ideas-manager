@@ -13,7 +13,7 @@ This app is designed to allow its users to store startup ideas in order to reduc
 You can find the application here: [URL link](https://sasmmh.github.io/startup-ideas-manager/)
 
 ## How to use the application
-To use the app, you can:  
+To use the app, you can open the URL in Chrome and:  
 
 - Click on the button **add idea**
   - Enter a name for the new idea
